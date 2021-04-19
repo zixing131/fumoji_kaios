@@ -1,0 +1,23 @@
+{
+  "name": "伏魔记",
+  "description": "伏魔记 KaiOS 版",
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "type": "privileged",
+  "origin": "app://kai.zixing.fumoji",
+  "icons": {
+    "56": "/FuMoJi.png"
+  },
+  "developer": {
+    "name": "zixing",
+    "url": "http://www.github.com/openkaios"
+  },
+  "permissions": {
+    "attention": {},
+    "browser": {},
+    "mobilenetwork": {},
+	"systemXHR" : {}
+  },
+  "ime_default_softkey_bar": true,
+  "theme_color": "#00a1d6"
+}
